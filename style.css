@@ -1,0 +1,640 @@
+.form-control{ 
+    
+    padding: 8px;
+    border:0; box-shadow:0 0 5px 1px #ebebebfb;
+    padding:20px;
+    border-radius:30px;
+    width: 600px;
+    margin-top:1px;
+    margin-left:150px;
+}
+
+
+
+
+
+#im2{
+    clip-path: circle();
+}
+
+.cat22{ 
+    
+    padding: 6px;
+    
+    border:1px solid  #294e92fb; 
+    padding:20px;
+    border-radius:30px;
+    width: 110px;
+    margin-top:28px;
+    margin-left:13px;
+   
+}
+.cat{ 
+    
+    
+    padding: 8px;
+    
+    border:1px solid  #294e92fb; 
+    padding:18px;
+    border-radius:30px;
+    width: 110px;
+    margin-top:22px;
+    margin-left:13px;
+   top: 100px;
+}
+.cat1{ 
+    
+    padding: 8px;
+
+    border:1px solid  #294e92fb; 
+    padding:20px; 
+    border-radius:30px;
+    width: 110px;
+    margin-top:19px;
+    margin-left:13px;
+}
+
+.cat2{ 
+    
+    padding: 8px;
+   
+    border:1px solid  #294e92fb; 
+    padding:20px; 
+    border-radius:30px;
+    width: 110px;
+    margin-top:6px;
+    margin-left:16px;
+}
+.cat3{ 
+    
+    padding: 8px;
+   
+    border:1px solid  #294e92fb; 
+    padding:20px; 
+    border-radius:35px;
+    width: 100px;
+    margin-top:10px;
+    margin-left:px;
+}
+.cat4{ 
+    
+    padding: 8px;
+   
+    border:1px solid  #294e92fb; 
+    padding:20px; 
+    border-radius:30px;
+    width: 110px;
+    margin-top:19px;
+    margin-left:px;
+}
+.cat5{ 
+    
+    border:1px solid  #294e92fb; 
+    padding: 8px;
+    
+    padding:20px; 
+    border-radius:30px;
+    width: 110px;
+    margin-top:19px;
+    margin-left:9px;
+}
+.cat6{ 
+    
+  
+    border:1px solid  #294e92fb; 
+    padding:20px; 
+    border-radius:30px;
+    width: 110px;
+    margin-top:19px;
+    margin-left:10px;
+}
+
+.enis1 { padding: px;
+    border:none; 
+   margin-left:2px;
+   text-decoration: none;
+   color: black;
+   font-size: 12px;
+   color: rgb(145, 133, 133); 
+
+   width:30px;
+   height: 60px;
+   position:absolute ;
+   left: 720px;
+   top: 38px;
+}
+.pp{
+    width:15px;
+   height: 3px;
+   position:absolute ;
+   left: 50px;
+   top: 4px;
+font-size: 16px;
+color: rgba(0, 0, 0, 0.733);
+}
+.nd{
+    width:15px;
+    height: 3px;
+    position:absolute ;
+    left: 235px;
+    top: 165px;
+ font-size: 16px;
+   text-decoration: none;
+   color: rgba(0, 0, 0, 0.733);
+}
+.nd1{
+    width:15px;
+    height: 3px;
+    position:absolute ;
+    left: 399px;
+    top: 165px;
+ font-size: 16px;
+   text-decoration: none;
+   color: rgba(0, 0, 0, 0.733);
+}
+   .nd2{
+    width:15px;
+    height: 3px;
+    position:absolute ;
+    left: 569px;
+    top: 165px;
+ font-size: 16px;
+   text-decoration: none;
+   color: rgba(0, 0, 0, 0.733);
+
+}
+
+.nd3{
+    width:15px;
+    height: 3px;
+    position:absolute ;
+    left: 729px;
+    top: 165px;
+ font-size: 16px;
+   text-decoration: none;
+   color: rgba(0, 0, 0, 0.733);
+
+}
+.nd4{
+    width:15px;
+    height: 3px;
+    position:absolute ;
+    left: 890px;
+    top: 165px;
+ font-size: 16px;
+   text-decoration: none;
+   color: rgba(0, 0, 0, 0.733);
+
+
+}
+.nd5{
+    width:15px;
+    height: 3px;
+    position:absolute ;
+    left: 1050px;
+    top: 165px;
+ font-size: 16px;
+   text-decoration: none;
+   color: rgba(0, 0, 0, 0.733);
+
+}
+.nd6{
+    width:15px;
+    height: 3px;
+    position:absolute ;
+    left: 1200px;
+    top: 165px;
+ font-size: 16px;
+   text-decoration: none;
+   color: rgba(0, 0, 0, 0.733);
+
+}
+
+
+.pp1{
+    width:15px;
+   height: 3px;
+   position:absolute ;
+   left: 60px;
+   top: 4px;
+font-size: 14px;
+color: black;
+}
+.pp2{
+    width:10px;
+   height: 3px;
+   position:absolute ;
+   left: 48px;
+   top: 60px;
+font-size: 10px;
+color: black;
+}
+
+
+
+.kat7 { 
+
+    flex: 1;
+    border:none;
+    
+    position: fixed;
+    font-size:  24px;
+    left: 28px;
+    top:160px;
+    }
+
+    .kat8 { 
+
+        flex: 1;
+        border:none;
+        clip-path: circle();
+        position: fixed;
+        font-size:  24px;
+        left: 190px;
+        top:150px;
+        }
+        .kat9 { 
+           
+            flex: 1;
+            border:none;
+            clip-path: circle();
+            position: fixed;
+            font-size:  24px;
+            left: 357px;
+            top:150px;
+            }
+
+            .kat10 { 
+           
+                flex: 1;
+                border:none;
+                clip-path: circle();
+                position: fixed;
+                font-size:  24px;
+                left: 528px;
+                top:150px;
+                } 
+                .kat11 { 
+           
+                    flex: 1;
+                    border:none;
+                    clip-path: circle();
+                    position: fixed;
+                    font-size:  24px;
+                    left: 689px;
+                    top:150px;
+                    } 
+                    .kat12 { 
+           
+                        flex: 1;
+                        border:none;
+                        clip-path: circle();
+                        position: fixed;
+                        font-size:  24px;
+                        left: 840px;
+                        top:150px;
+                        } 
+                        .kat13 { 
+           
+                            flex: 1;
+                            border:none;
+                            
+                            position: fixed;
+                            font-size:  24px;
+                            left: 1008px;
+                            top:159px;
+                            } 
+                        
+                        .kat14 { 
+           
+                            flex: 1;
+                            border:none;
+                            clip-path: circle();
+                            position: fixed;
+                            font-size:  24px;
+                            left: 1165px;
+                            top:150px;
+                            } 
+                  
+                            
+
+                            .kat144{ 
+           
+                              flex: 1;
+                                
+                            
+                                position: fixed;
+                                
+                                left: 15px;
+                                top:220px;
+                                } 
+                                #imm1{
+                                    border-radius: 2%;
+                                }
+                                .kat145{  flex: 1; position: fixed;
+                                    left: 278px;
+                                    top:220px;
+                                    } 
+                                    img{
+                                          border-radius: 2%;
+                                      }
+                                      .kat146{  flex: 1; position: fixed;
+                                        left: 630px;
+                                        top:220px;
+                                        } 
+                                        img{
+                                              border-radius: 2%;
+                                          }
+                                          .kat147{  flex: 1; position: fixed;
+                                            left: 930px;
+                                            top:220px;
+                                            } 
+                                            img{
+                                                  border-radius: 2%;
+                                              }
+                                              .kat148{  flex: 1; position: fixed;
+                                                left: 1190px;
+                                                top:220px;
+                                                } 
+                                                img{
+                                                      border-radius: 2%;
+                                                  }
+
+                                                  .kat149{  flex: 1; position: fixed;
+                                                left: 10px;
+                                                top:440px;
+                                                } 
+                                                img{
+                                                      border-radius: 2%;
+                                                  }
+                                                  .kat150{  flex: 1; position: fixed;
+                                                    left: 287px;
+                                                    top:440px;
+                                                    } 
+                                                    img{
+                                                          border-radius: 2%;
+                                                      }
+                                                      .kat151{  flex: 1; position: fixed;
+                                                        left: 600px;
+                                                        top:440px;
+                                                        } 
+                                                        img{
+                                                              border-radius: 2%;
+                                                          }
+                                                          .kat152{  flex: 1; position: fixed;
+                                                            left: 860px;
+                                                            top:440px;
+                                                            } 
+                                                            img{
+                                                                  border-radius: 2%;
+                                                              }
+                                                              .kat153{  flex: 1; position: fixed;
+                                                                left: 1120px;
+                                                                top:440px;
+                                                                } 
+                                                                img{
+                                                                      border-radius: 2%;
+                                                                  }
+
+/* .noe1{
+    font-size:40px;
+    margin-left:10px;
+    margin-top:160px;
+    width: 240px;
+} */
+.val1{
+
+  
+    position:absolute;
+    left: 20px;
+    top: 360px;
+   color: rgba(0, 0, 0, 0.733);
+   text-align: left;
+   text-decoration: none;
+}
+.val44{
+
+  
+    position:absolute;
+    left: 20px;
+    top: 580px;
+   color: rgba(0, 0, 0, 0.733);
+   text-align: left;
+   text-decoration: none;
+}
+.val45{
+
+  
+    position:absolute;
+    left: 300px;
+    top: 580px;
+   color: rgba(0, 0, 0, 0.733);
+   text-align: left;
+   text-decoration: none;
+}
+
+.val46{
+
+  
+    position:absolute;
+    left: 600px;
+    top: 580px;
+   color: rgba(0, 0, 0, 0.733);
+   text-align: left;
+   text-decoration: none;
+}
+.val47{
+
+  
+    position:absolute;
+    left: 860px;
+    top: 580px;
+   color: rgba(0, 0, 0, 0.733);
+   text-align: left;
+   text-decoration: none;
+}
+.val48{
+
+  
+    position:absolute;
+    left: 1180px;
+    top: 580px;
+   color: rgba(0, 0, 0, 0.733);
+   text-align: left;
+   text-decoration: none;
+}
+
+.val2{
+
+    font-size: 17px;
+    position:absolute;
+    left: 290px;
+    top: 360px;
+   color: rgba(0, 0, 0, 0.733);
+   text-align: left;
+   text-decoration: none;
+}
+.val3{
+
+    font-size: 19px;
+    position:absolute;
+    left: 630px;
+    top: 360px;
+   color: rgba(0, 0, 0, 0.733);
+   text-align: left;
+   text-decoration: none;
+}
+.val4{
+
+    font-size: 15px;
+    position:absolute;
+    left: 930px;
+    top: 360px;
+    color: rgba(0, 0, 0, 0.733);
+   text-align: left;
+   text-decoration: none;
+}
+.val5{
+
+    font-size: 12,5px;
+
+    position:absolute;
+    left: 1200px;
+    top: 350px;
+   color: rgba(0, 0, 0, 0.733);
+   text-align: left;
+   text-decoration: none;
+}
+
+.enis12{
+    width:30px;
+    height: 60px;
+    position:absolute ;
+    left: 690px;
+    top: 38px;
+
+ }    
+ .enisx{
+    width:30px;
+    height: 60px;
+    position:absolute ;
+    left: 750px;
+    top: 38px;
+
+ }  
+ .enisxx{
+    width:30px;
+    height: 60px;
+    position:absolute ;
+    left: 1332px;
+    top: 84px;
+
+ } 
+ .vvv{
+border: 1px solid black;
+ }
+
+.enis11 { padding: 13px;
+    border:0; 
+   margin-left:350px;
+   text-decoration: none;
+   color: black;
+   font-size: 12px;
+
+}
+.enis { padding: 8px;
+    border:0; 
+   margin-left:150px;
+   text-decoration: none;
+   color: black;
+   font-size: 12px;
+}
+.kat { padding: 8px;
+    border:0; 
+    margin-left:10px;
+    text-decoration: none;
+    color: black;
+    font-size: 12px;
+}
+.kat1 { padding: 8px;
+    border:0; 
+    margin-left:10px;
+    text-decoration: none;
+    color: black;
+    font-size: 12px;
+}
+.kat2 { padding: 8px;
+    border:0; 
+    margin-left:10px;
+    text-decoration: none;
+    color: black;
+    font-size: 12px;
+}
+.kat3 { padding: 8px;
+    border:0; 
+    margin-left:10px;
+    text-decoration: none;
+    color: black;
+    font-size: 12px;
+}
+     
+.kat4 { padding: 8px;
+    border:0; 
+    margin-left:10px;
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+}
+.katx { padding: 8px;
+    border:0; 
+    margin-left:350px;
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+}
+.kat5 { padding: 8px;
+    border:0; 
+    margin-left:10px;
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+}
+.kat6 { padding: 8px;
+    border:0; 
+    margin-left:10px;
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+}
+
+      h6 {
+        position: absolute;
+	left: 10;
+	transition: left 5s, transform 5s;
+	white-space: nowrap;
+        margin-top:32px;
+        margin-left:24px;
+        
+      }
+      div.gallery {
+        margin: 5px;
+        border: 1px solid #ccc;
+        float: left;
+        width: 180px;
+      }
+      
+      div.gallery:hover {
+        border: 1px solid #777;
+      }
+      
+      div.gallery img {
+        width: 100%;
+        height: auto;
+      }
+      
+      div.desc {
+        padding: 15px;
+        text-align: center;
+      }
+ 
+      
